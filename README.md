@@ -2,8 +2,8 @@ Hi there 👋
 I am currently an intern at enersis with focus on ETL.
 
 - 🌱 I’m currently learning:
-      Python
-      JavaScript
+      Python,
+      JavaScript,
       HTML CSS
       SQL
 
