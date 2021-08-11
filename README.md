@@ -1,7 +1,7 @@
 Hi there 👋
 I am currently an intern at enersis with focus on ETL.
 
-- 🌱 I’m currently learning:
+- 🌱 I’m learning:
       Python,
       JavaScript,
       HTML CSS
